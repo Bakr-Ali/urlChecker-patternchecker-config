@@ -179,7 +179,7 @@
   },
   "Instagram post to bibliogram": {
     "regex": "^https?:\\\/\\\/([a-z0-9-]+\\.)*instagram\\.com\\\/p\\\/(.*)",
-    "replacement": "https:\/\/farisde.link\/bibliogram\/p\/$2",
+    "replacement": "https:\/\/farside.link\/bibliogram\/p\/$2",
     "enabled": "true"
   },
   "Instagram profile to bibliogram": {
